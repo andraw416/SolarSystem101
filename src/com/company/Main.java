@@ -11,7 +11,12 @@ public class Main {
     FactorX.planet="5";
     FactorX.stars="11";
 
-    
+    //adding features to teh sun
+        FeatureSun Xfact=new FeatureSun();
+        Xfact.color="green";
+        Xfact.radius="100000000km";
+        Xfact.heat="398257239847239847C";
+
 
 }
 }
